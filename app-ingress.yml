@@ -17,7 +17,8 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: iphone.harishshetty.xyz
+    - host: narayanxy.shop
+
       http:
         paths:
           - path: /
