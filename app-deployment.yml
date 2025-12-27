@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: iphone-container
-          image: harishnshetty:latest
+          image: harishnshetty/iphone:latest
           ports:
             - containerPort: 80
           resources:
